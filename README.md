@@ -47,3 +47,5 @@ To get started with the Library Management System, follow these steps:
 
 ## Few Gilmpse of the project 
 
+![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/2a588e29-322b-4d2c-9653-63bc3985b5ad)
+
