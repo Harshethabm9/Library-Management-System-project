@@ -44,3 +44,45 @@ class Library:
         print("BOOK DONATED! \nTHANK YOU VERY MUCH, HAVE A GREAT DAY AHEAD.\n")
         self.books.append(bookname)
 
+if __name__ == "__main__":
+
+    myLibrary = Library(
+        ["It all ends with us", "I am Krishna", "Rich and Poor Dad", "The Secrets of Nagas", "Macroeconomics", "Microeconomics", "Secrets"])
+    student = Student()
+    track = []
+
+    print("\n WELCOME TO THE LIBRARY \n")
+    # print("""CHOOSE WHAT YOU WANT TO DO:-\n1. Show Listing of all books\n2. Borrow a book\n3. Return a book\n4. Donate a book\n5. Track Books\n6. Exit the library\n""")
+
+    while (True):
+        # print(track)
+        try:
+            print("""CHOOSE WHAT YOU WANT TO DO:-\n1. Show Listing of all books\n2. Borrow a book\n3. Return a book\n4. Donate a book\n5. Track Books\n6. Exit the library\n""")
+            usr_response = int(input("Enter your choice: "))
+
+            if usr_response == 1:  # listing
+                myLibrary.displayAvailableBooks()
+            elif usr_response == 2:  # borrow
+                myLibrary.borrowBook(
+                    input("Enter your name: "), student.requestBook())
+            elif usr_response == 3:  # return
+                myLibrary.returnBook(student.returnBook())
+            elif usr_response == 4:  # donate
+                myLibrary.donateBook(student.donateBook())
+            elif usr_response == 5:  # track
+                for i in track:
+                    for key, value in i.items():
+                        holder = key
+                        book = value
+                        print(f"{book} book is taken/issued by {holder}.")
+                print("\n")
+                if len(track) == 0:
+                    print("NO BOOKS ARE ISSUED!. \n")
+            
+            elif usr_response == 6: #exit
+                print("THANK YOU ! \n")
+                exit()
+            else:
+                print("INVAILD INPUT! \n")
+        except Exception as e:              #catch errors
+            print(f"Sorry! This is INVALID INPUT! \n")
