@@ -1,5 +1,4 @@
 class Student:
-
     # track the book student is requesting
     def requestBook(self): 
         print("So, you want to borrow book!")
@@ -65,11 +64,7 @@ if __name__ == "__main__":
     while (True):
         
         try:
-            print("""CHOOSE WHAT YOU WANT TO DO:-\n1. 
-                  Show Listing of all books\n2. 
-                  Borrow a book\n3. Return a book\n4. 
-                  Donate a book\n5. Track Books\n6. 
-                  Exit the library\n""")
+            print("""CHOOSE WHAT YOU WANT TO DO:-\n1. Show Listing of all books\n2. Borrow a book\n3. Return a book\n4. Donate a book\n5. Track Books\n6. Exit the library\n""")
             usr_response = int(input("Enter your choice: "))
 
             if usr_response == 1:  # display the listing
