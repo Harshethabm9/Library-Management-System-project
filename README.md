@@ -1,8 +1,7 @@
 # Library-management-system
-This is a simple program on Libaray Management System where we have focused majorly on OOPs concept. It allows users to add books to the library, display available books, borrow a book from the available list of books, return a borrowed book bacK to library and track if a student donates a books to the library.
- 
+
 ## Overview
-A library management system is a software application for efficiently managing library operations and resources. It serves as a comprehensive tool for librarians, allowing them to streamline book management, user interaction, and administrative tasks. 
+This is a simple program on Libaray Management System where we have focused majorly on OOPs concept. It allows users to add books to the library, display available books, borrow a book from the available list of books, return a borrowed book bacK to library and track if a student donates a books to the library.
 
 ## Features 
 
@@ -237,11 +236,42 @@ For the code provided, you can use tools like radon to calculate these metrics.
             Run radon cc -s library_management_system.py to get cyclomatic complexity values.
      2. Maintainability Index:
          Tools:
-             radon (installable via pip: pip install radon).
+            radon (installable via pip: pip install radon).
              
 Benefits:
 These metrics help gauge the complexity and maintainability of the code.
 They provide insights into potential areas for refactoring or improvement.
+
+## 7. Clean Code Development
+
+The clean code pratices followed in this code are :
+
+i. Meaningful Variable and Method Names: 
+Choose meaningful and self-explanatory names that convey the purpose of the variable or method.
+
+### user_choice = int(input("Enter your choice: "))
+
+ii.  Consistent Code Formatting: 
+I have maintained consistent indentation and spacing throughout the code.
+
+iii. Use of Constants: 
+I have used constants to improve code readability.
+
+iv. Encapsulation:
+I have created separate class for all functions.
+
+v. User Interaction
+Improve user interaction by providing clear prompts and messages.
+
+
+## 10. Shortcuts of IntelliJ
+
+Alt + Enter: Show intention actions and quick fixes.
+Alt + Insert: Generate code
+Ctrl + F9: Build project
+Ctrl + Shift + F8: View breakpoints
+Ctrl + Shift + L : Refactor Code
+Ctrl + S : Save ll
 
 
 
