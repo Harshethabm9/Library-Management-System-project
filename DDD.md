@@ -60,7 +60,7 @@ Now, let's modify the existing code to accommodate these additional domains.
                   def remove_book(self, book):
                       self.books.remove(book)
 
-  - Transcation Domain
+- Transcation Domain
  
               class Transaction:
                 def __init__(self, user, book, transaction_type):
@@ -71,6 +71,7 @@ Now, let's modify the existing code to accommodate these additional domains.
 
 The update DDD Strategic Design for these domain will be 
 
+![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/29785c73-bcb9-4396-9dda-8e0731600a8f)
 
 
 
