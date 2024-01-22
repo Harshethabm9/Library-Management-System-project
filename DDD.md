@@ -25,3 +25,57 @@
                  - The Student class supports the core domain by handling user interactions related to books (requesting, returning, donating).
                  - The Track class supports the core domain by tracking book transactions (issued books).
 
+We can few more domain in this DDD like User Domain, Inventory Domain and Transaction Domain.
+
+      User Domain:
+                - Manages user-related functionality such as user authentication, roles, and profiles.
+                - Responsible for user registration, login, and access control.
+
+      Inventory Domain:
+                - Handles the inventory of the library, including tracking book quantities, categories, and availability.
+                - Manages the replenishment and depletion of book stock.
+
+      Transaction Domain:
+                - Tracks library transactions, including book borrowings, returns, and donations.
+                - Maintains a history of user interactions with the library.
+
+Now, let's modify the existing code to accommodate these additional domains. 
+  
+- User Domain
+  
+              class User:
+                  def __init__(self, username, password, role):
+                      self.username = username
+                      self.password = password
+                      self.role = role
+- Inventory Domain
+  
+              class Inventory:
+                  def __init__(self):
+                      self.books = []
+              
+                  def add_book(self, book):
+                      self.books.append(book)
+              
+                  def remove_book(self, book):
+                      self.books.remove(book)
+
+  - Transcation Domain
+ 
+              class Transaction:
+                def __init__(self, user, book, transaction_type):
+                    self.user = user
+                    self.book = book
+                    self.transaction_type = transaction_type
+                    self.timestamp = datetime.datetime.now()
+
+The update DDD Strategic Design for these domain will be 
+
+
+
+
+
+
+
+  
+
