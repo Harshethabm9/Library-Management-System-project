@@ -45,8 +45,11 @@ To get started with the Library Management System, follow these steps:
 
 ## 1. Git 
 
-Library management systemis upload on this respository :
+Library management system is upload on this repository :
 [Library Management System](https://github.com/Harshethabm9/Library-Management-System-project)
+
+The code of this project is upload on this repository:
+[Project Source Code](https://github.com/Harshethabm9/Library-Management-System-project/blob/master/main.py)
 
 ## 2. UML
 
