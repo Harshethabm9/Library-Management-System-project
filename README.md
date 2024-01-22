@@ -53,7 +53,7 @@ The code of this project is upload on this repository:
 
 ## 2. UML
 
-Here are three UML diagrams i.e. Class Diagram , Sequence Diagram and Use Case Diagram for this project is added here 
+Here are few UML diagrams including Class Diagram , Sequence Diagram and Use Case Diagram for this project  
 [Unified Modeling Language](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/uml.md)
 
 
