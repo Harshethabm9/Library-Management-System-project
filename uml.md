@@ -66,3 +66,47 @@ This diagram illustrates the sequence of interactions between the Student and Li
              - The Library interacts with the Track to track issued books.
              
 This diagram shows the high-level interactions between users (students) and the system components (Library and Track) in terms of use cases.
+
+### iv. Object Diagram
+
+![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/2e5c3cff-385e-4f57-8e7c-ef82323104d3)
+
+      Library:
+            Manages the library and books.
+            
+      Attributes:
+            books: List of available books.
+            
+      Methods:
+            __init__(listofBooks: List[str]): Constructor to initialize the library with a list of books.
+            displayAvailableBooks(): void: Displays available books.
+            borrowBook(name: str, bookname: str): void: Handles book borrowing.
+            returnBook(bookname: str): void: Handles book return.
+            donateBook(bookname: str): void: Handles book donation.
+
+      Student:
+            Represents a student interacting with the library.
+
+      Attributes:
+            book: Current book being tracked.
+            
+      Methods:
+            requestBook(): str: Handles book request.
+            returnBook(): str: Handles book return.
+            donateBook(): str: Handles book donation.
+            
+      Associations:
+      
+      Library to Student:
+            Uses a Student object for book-related interactions.
+            Multiplicity: 1..*
+      Student to Library:
+            Has a reference to a Library object.
+            Multiplicity: 1
+            
+This UML diagram provides a visual representation of the classes, their attributes, and their associations in the given code.
+
+### v. Activity Diagram 
+
+
+
