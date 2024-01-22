@@ -3,9 +3,9 @@
 ### i.Test for display available Books
 
    def test_display_available_books(self):
-        with self.assertLogs(level='INFO') as cm:
-            self.library.displayAvailableBooks()
-        self.assertIn('INFO:root:3 AVAILABLE BOOKS ARE:', cm.output)
+      with self.assertLogs(level='INFO') as cm:
+         self.library.displayAvailableBooks()
+      self.assertIn('INFO:root:3 AVAILABLE BOOKS ARE:', cm.output)
 
 ### ii. Test for books not available 
 
