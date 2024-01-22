@@ -1,3 +1,5 @@
+## Domain Driven Design 
+
 ### Identify Domains:
 
   Library Domain:
@@ -12,7 +14,7 @@
                  - Manages the tracking of book transactions, such as books borrowed by students.
                  -Includes the Track class.
 
-    Strategic Design:
+### Strategic Design:
 ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/01883235-43d1-4094-b39f-cd9056d02962)
 
      Core Domain (Library):
