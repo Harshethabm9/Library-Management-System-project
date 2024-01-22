@@ -4,15 +4,21 @@ This is a simple program on Libaray Management System where we have focused majo
 
 ## Table of Contents
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [COVID-19 Patient Records](#covid-19-patient-records)
-- [Vaccination Management](#vaccination-management)
-- [Clean code Development](#clean-code-development)
-- [Contributing](#contributing)
-- [License](#license)
-- 
+- [Features](##features)
+- [Getting Started](##getting-started)
+- [Git](##git)
+- [Unified Modelling Language](###UML)
+- [Requirement Engineering](##Requirement-Engineering)
+- [Analysis Learning unit](##Analysis-Learning-unit)
+- [Domain Driven Design](##ddd)
+- [Metrics](##Metric)
+- [Clean Code Development](##Clean-Code-Development)
+- [Build Management](##Build-management)
+- [Unit Tests](##Unit-tests)
+- [Shortcuts of VSCode](##Shortcuts-of-VSCode)
+- [License](##license)
+  
+  
 ## Features 
 
 Book management: Add, update, and delete book entries, including details such as title and number of books available 
@@ -35,14 +41,7 @@ To get started with the Library Management System, follow these steps:
 3. **Run the Application:**
    - Execute the main application file and you will see all the input and output in the console.
   
-### Few Gilmpse of the project 
 
-1. ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/2a588e29-322b-4d2c-9653-63bc3985b5ad)
-2. ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/ff80216a-9a36-4a6c-9b66-9238ab1d6a68)
-3. ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/dece6ff0-faac-47c2-962e-47b0c5e7db15)
-4. ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/7a4d3afe-90ba-4a98-801c-d33a39b15399)
-5. ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/8aca983d-8d0b-4da7-b57a-54a73cdc0608)
-6. ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/56167857-bec2-416b-ba46-32263ddfae63)
 
 ## 1. Git 
 
@@ -113,20 +112,24 @@ I have created separate class for all functions.
 v. User Interaction
 Improve user interaction by providing clear prompts and messages.
 
+## Build Management 
 
-## 10. Shortcuts of IntelliJ
+[Build Management](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/Build_management.md)
 
-Alt + Enter: Show intention actions and quick fixes.
-Alt + Insert: Generate code
-Ctrl + F9: Build project
-Ctrl + Shift + F8: View breakpoints
-Ctrl + Shift + L : Refactor Code
-Ctrl + S : Save ll
+## 9. Unit Test
+
+[Few Unit Test](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/unit_tests.md)
 
 
+## 10. Shortcuts of VSCode
 
-                   
-
+Alt + Click: Insert cursor(Multiple cursor)
+Shift + Alt + F: Format document
+Ctrl + Enter: Insert line below
+Ctrl + N: New File
+Ctrl + X: Cut line
+Ctrl + C: Copy line 
+Ctrl + S : Save all
 
 ## License
  
