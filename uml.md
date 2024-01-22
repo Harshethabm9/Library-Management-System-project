@@ -40,7 +40,7 @@ This diagram provides an overview of the classes, their attributes, and methods 
            
 This diagram illustrates the sequence of interactions between the Student and Library when a book is being borrowed.
 
-### iii. Use Caase Diagram
+### iii. Use Case Diagram
 
 ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/831024c8-46fa-4a30-80ca-2100c4843ba8)
 
@@ -108,5 +108,22 @@ This UML diagram provides a visual representation of the classes, their attribut
 
 ### v. Activity Diagram 
 
+![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/5f4001b8-2779-4a34-86e8-d78f7f8636d9)
 
+- Choose Operation:
+ User selects the operation: Borrow a book, Return a book, Donate a book.
+
+- Borrow Book Activity:
+ Sub-activity for borrowing a book.
+ Includes entering user name, entering book name, checking availability, and issuing the book.
+
+- Return Book Activity:
+  Sub-activity for returning a book.
+  Includes entering user name, entering book name, and receiving the returned book.
+
+- Donate Book Activity:
+   Sub-activity for donating a book.
+   Includes entering user name, entering book name, and receiving the donated book.
+
+This activity diagram illustrates the flow of activities in the Library Management System.
 
