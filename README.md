@@ -79,22 +79,7 @@ Requirements Engineering by mapping for this code
 
 ## 4. Analysis Learning unit
 
-1. **Book Management:**
-   - Add, update, and remove book from list of the books.
-   - Record details such as Books name and username who have borrowed it.
-
-2. **User Management:**
-   - Handle borrowing, donation and returns.
-
-3. **Cataloging & Search:**
-   - user can see all the listing of the books available in Console.
-
-4. **Borrowing & Returns:**
-   - Facilitate the process of lending and returning books.
-
-
-5. **Reporting & Analytics:**
-   - Show all the books issued, borrowed and track all the books availabel in the library.
+[Analysis Learning Unit](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/Analysis.md)
 
 
 ## 5. DDD (Domain Driven Design)
