@@ -60,6 +60,8 @@ Here are few UML diagrams including Class Diagram , Sequence Diagram and Use Cas
 ## 3. Requirement Engineering 
 
 Requirements Engineering by mapping for this code 
+![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/2a2929b2-f3e7-4ec9-9107-df093fb51dd9)
+
 
 [Requirement Engineerring](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/req_engineering.md)
 
