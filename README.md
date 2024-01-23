@@ -152,13 +152,13 @@ Improve user interaction by providing clear prompts and messages.
 
 ## 10. Shortcuts of VSCode
 
-Alt + Click: Insert cursor(Multiple cursor)
-Shift + Alt + F: Format document
-Ctrl + Enter: Insert line below
-Ctrl + N: New File
-Ctrl + X: Cut line
-Ctrl + C: Copy line 
-Ctrl + S : Save all
+1. Alt + Click: Insert cursor(Multiple cursor)
+2. Shift + Alt + F: Format document
+3. Ctrl + Enter: Insert line below
+4. Ctrl + N: New File
+5. Ctrl + X: Cut line
+6. Ctrl + C: Copy line 
+7. Ctrl + S : Save all
 
 ## License
  
