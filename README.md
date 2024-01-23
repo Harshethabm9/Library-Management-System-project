@@ -60,7 +60,7 @@ Here are few UML diagrams including Class Diagram , Sequence Diagram and Use Cas
 ## 3. Requirement Engineering 
 [Trello](https://trello.com/b/XzbUHKyZ/my-trello-board)
 
-[Notion] (https://www.notion.so/ff0f85f758a34978b815ddfa1d252b8e?v=ddf1d5bb82d84fb29a32cd9a3ca13e8b)
+[Notion](https://www.notion.so/ff0f85f758a34978b815ddfa1d252b8e?v=ddf1d5bb82d84fb29a32cd9a3ca13e8b)
 
 Requirements Engineering by mapping for this code 
 ![image](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/2a2929b2-f3e7-4ec9-9107-df093fb51dd9)
