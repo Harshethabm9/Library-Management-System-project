@@ -127,6 +127,7 @@ The clean code pratices followed in this code are :
 
 i. Meaningful Variable and Method Names: 
 Choose meaningful and self-explanatory names that convey the purpose of the variable or method.
+
 Example: user_choice = int(input("Enter your choice: "))
 
 ii.  Consistent Code Formatting: 
