@@ -164,4 +164,3 @@ This project Library management system is privately owned by Harshetha Murthy , 
 - **Name**: Harshetha Murthy
 - **Email**: harshethabm@gmail.com
 
-- indpired by **sandeep ambati***
