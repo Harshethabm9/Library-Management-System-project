@@ -161,6 +161,12 @@ Improve user interaction by providing clear prompts and messages.
 6. Ctrl + C: Copy line 
 7. Ctrl + S : Save all
 
+## 11. Functional Programming 
+
+The aspects of Functional Programming in this project are covered here:
+
+[Functional Programming](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/Functional_Programming.md)
+
 ## License
  
 This project Library management system is privately owned by Harshetha Murthy , a student at SRH Berlin University of Applied Sciences pursuing an MSc in Computer Science with a specialization in Big Data and Artificial Intelligence.
