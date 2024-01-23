@@ -129,6 +129,8 @@ I have created separate class for all functions.
 v. User Interaction
 Improve user interaction by providing clear prompts and messages.
 
++ B) [CCD checklist](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/ccd%20cheatsheet.pdf)
+
 ## Build Management 
 
 [Build Management](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/Build_management.md)
