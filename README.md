@@ -99,6 +99,7 @@ In domain-driven design (DDD), domains within a system are identified and arrang
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
@@ -162,3 +163,5 @@ This project Library management system is privately owned by Harshetha Murthy , 
 **Contact Information:**
 - **Name**: Harshetha Murthy
 - **Email**: harshethabm@gmail.com
+
+- indpired by **sandeep ambati***
