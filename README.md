@@ -93,6 +93,16 @@ In domain-driven design (DDD), domains within a system are identified and arrang
 ## 6. Metrics 
 
 [Metrics](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/metrics.md)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Harshethabm9_Library-management-system&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Harshethabm9_Library-management-system)
 
 
 ## 7. Clean Code Development
