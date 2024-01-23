@@ -105,6 +105,8 @@ In domain-driven design (DDD), domains within a system are identified and arrang
 
 [Core Domain Chart](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/Blank%20board%20-%20Page%201%20Frame%201%20(1).jpeg)
 
+[event storming](https://github.com/Harshethabm9/Library-Management-System-project/blob/main/Blank%20board%20-%20Page%201%20Frame%202.jpeg)
+
 
 ## 6. Metrics 
 
