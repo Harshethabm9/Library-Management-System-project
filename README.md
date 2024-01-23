@@ -60,17 +60,16 @@ Here are few UML diagrams including Class Diagram , Sequence Diagram and Use Cas
 ## 3. Requirement Engineering 
 [Jira](https://library-book.atlassian.net/jira/software/projects/LMS/boards/1)
 
-![WhatsApp Image 2024-01-23 at 14 43 05_15d14535](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/21ccbfc5-47c7-49d3-a9f2-6db78f1fd4d8)
 
 
 [Trello](https://trello.com/b/XzbUHKyZ/my-trello-board)
 
-![WhatsApp Image 2024-01-23 at 14 43 05_0415e5ff](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/93cf9c62-d4b9-4d6b-836e-2c6a1ced3beb)
+
 
 
 [Notion](https://www.notion.so/ff0f85f758a34978b815ddfa1d252b8e?v=ddf1d5bb82d84fb29a32cd9a3ca13e8b)
 
-![WhatsApp Image 2024-01-23 at 14 43 04_f17d1cd5](https://github.com/Harshethabm9/Library-Management-System-project/assets/148848257/8ae722a4-7c1c-4dfb-94d4-a726896b000b)
+
 
 
 Requirements Engineering by mapping for this code 
