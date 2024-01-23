@@ -65,9 +65,9 @@ Here are few UML diagrams including Class Diagram , Sequence Diagram and Use Cas
 [Trello](https://trello.com/b/XzbUHKyZ/my-trello-board)
 
 
-
-
 [Notion](https://www.notion.so/ff0f85f758a34978b815ddfa1d252b8e?v=ddf1d5bb82d84fb29a32cd9a3ca13e8b)
+
++ [screenshots above ones](https://github.com/Harshethabm9/Library-Management-System-project/tree/main/project%20requirements)
 
 
 
